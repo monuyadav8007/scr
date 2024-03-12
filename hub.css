@@ -1,0 +1,16 @@
+#p3{
+    width: 500px;
+    height: 500px;
+    border: 2px solid red;
+    box-shadow: 10px 20px 15px pink;
+    background-image:radial-gradient(yellow, red);
+
+    filter:brightness(150%);
+    
+    
+}
+h2{
+    text-align: center;
+    color: white;
+    letter-spacing: 20px;
+}
